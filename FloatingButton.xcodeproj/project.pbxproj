@@ -13,6 +13,7 @@
 		7B41BBBD26A4095800477D34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B41BBBB26A4095800477D34 /* Main.storyboard */; };
 		7B41BBBF26A4095B00477D34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B41BBBE26A4095B00477D34 /* Assets.xcassets */; };
 		7B41BBC226A4095B00477D34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B41BBC026A4095B00477D34 /* LaunchScreen.storyboard */; };
+		7B41BBCB26A4139E00477D34 /* RocketSim Recording - iPhone 12 - 2021-07-18 16.44.52.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7B41BBCA26A4139E00477D34 /* RocketSim Recording - iPhone 12 - 2021-07-18 16.44.52.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7B41BBBE26A4095B00477D34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B41BBC126A4095B00477D34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B41BBC326A4095B00477D34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7B41BBCA26A4139E00477D34 /* RocketSim Recording - iPhone 12 - 2021-07-18 16.44.52.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "RocketSim Recording - iPhone 12 - 2021-07-18 16.44.52.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		7B41BBA926A4095800477D34 = {
 			isa = PBXGroup;
 			children = (
+				7B41BBCA26A4139E00477D34 /* RocketSim Recording - iPhone 12 - 2021-07-18 16.44.52.gif */,
 				7B41BBB426A4095800477D34 /* FloatingButton */,
 				7B41BBB326A4095800477D34 /* Products */,
 			);
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B41BBCB26A4139E00477D34 /* RocketSim Recording - iPhone 12 - 2021-07-18 16.44.52.gif in Resources */,
 				7B41BBC226A4095B00477D34 /* LaunchScreen.storyboard in Resources */,
 				7B41BBBF26A4095B00477D34 /* Assets.xcassets in Resources */,
 				7B41BBBD26A4095800477D34 /* Main.storyboard in Resources */,
