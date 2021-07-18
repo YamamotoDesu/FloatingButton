@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=oobm2y-d17E
 - Swift 5
 
 ## Image
-![demo](https://github.com/YamamotoDesu/Sparkles/blob/main/RocketSim%20Recording%20-%20iPhone%2012%20-%202021-07-18%2015.29.05.gif)
+![demo](https://github.com/YamamotoDesu/FloatingButton/blob/main/RocketSim%20Recording%20-%20iPhone%2012%20-%202021-07-18%2016.44.52.gif)
 <br><br>
 
 
